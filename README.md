@@ -60,3 +60,5 @@ The green light on the Metanode signals the correct execution of the process. By
 **REFERENCE**
 
 Further details on the algorithms and on the statistical performance of models can be found in the reference pubblication:
+
+Delre, P., Lavado, G., Lamanna, G., Saviano, M., Roncaglioni, A., Benfenati, E., ... & Gadaleta, D. (2022). Ligand-based prediction of hERG-mediated cardiotoxicity based on the integration of different machine learning techniques. Frontiers in pharmacology, 13.
